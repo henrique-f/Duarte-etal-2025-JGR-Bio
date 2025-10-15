@@ -1,0 +1,9 @@
+#Calculated from basal area and DBH from Wiesner et al. (2018,2019) (within flux tower footprint) and allometric equations from Mitchell et al. (1999)
+#Wiesner et al 2018: Interactions among abiotic drivers, disturbance and gross ecosystem carbon exchange on soil respiration from subtropical pine savannas, Ecosystems 21:1639-1658
+#Wiesner et al 2019: The role of understory phenology and productivity in the carbon dynamics of longleaf pine savannas. Ecosphere 10:e02675
+#Mitchell et al. 1999: Patterns and controls of ecosystem function in longleaf pine - wiregrass savannas. I. Aboveground net primary productivity. Can J For Res 29:743-751.
+#
+#Watch out: measurements ca. 2001 (establishment of productivity plots). Will assign to "2002, 1, 1" for consistency with CLM time stamping here (end of annual block). VALUE IN gC/m2
+#Fri Jan 31 04:39:40 PM EST 2025: now assigning to "2001,7,1" (mid-point), and also removing blank spaces from the timestamp
+
+2001,7,1,337.0

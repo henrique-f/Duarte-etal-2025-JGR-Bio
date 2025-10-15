@@ -1,0 +1,7 @@
+#Data extracted from Fig 3, Kenney et al. (2021) JGR Biogeo 10.1029/2021JG006452
+#In the gnumeric file companion, I gap filled the monthly data with linear interpolation and calculated annual averages
+#yyyy,mm,dd,LAI
+2017,7,1,2.0111058601134215
+2018,7,1,2.069706994328923
+2019,7,1,1.5656899810964084
+2020,7,1,1.7670132325141779

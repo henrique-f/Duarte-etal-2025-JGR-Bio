@@ -1,0 +1,8 @@
+#Data from Table 1, Kenney et al. (2021) JGR Biogeo 10.1029/2021JG006452
+#Data assigned to June 15
+#Fri Jan 31 03:12:37 PM EST 2025: now assigning data to July 1; adding max canopy height values from the same table
+
+#yyyy,mm,dd,HTOP,HTOP_stddev,HTOP_max
+2016,7,1,12.8,9.1,34.3
+2018,7,1,13.4,9.1,32.4
+2019,7,1,12.1,9.4,32.8
